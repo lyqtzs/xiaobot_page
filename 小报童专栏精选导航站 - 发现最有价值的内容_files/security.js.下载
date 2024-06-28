@@ -1,0 +1,1 @@
+setInterval(()=>{const startTime=performance.now();debugger;const endTime=performance.now();if(endTime-startTime>100){window.location.href='about:blank'}},1000);

